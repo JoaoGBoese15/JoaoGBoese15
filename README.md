@@ -5,6 +5,6 @@
 
 <div>
 <a href="https://linktr.ee/JoaoGBoese15">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGBoese15&layout=compact&langs_count=16&theme=midnight-purple"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoGBoese15&show_icons=true&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGBoese15&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
