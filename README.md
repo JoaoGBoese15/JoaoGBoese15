@@ -1,7 +1,7 @@
 ### Olá, Meu nome é João Gabriel e eu sou um estudante de Ciência da Computação e aspirante desenvolvedor Web
 
 - Estou atualmente trabalhando como um estagiario de desenvolvimento na Startup IrriGate utilizando C++
-- Estou estudando JavaScript e React Native
+- Estou atualmente estudando JavaScript, HTML e CSS
 
 <div>
 <a href="https://linktr.ee/JoaoGBoese15">
