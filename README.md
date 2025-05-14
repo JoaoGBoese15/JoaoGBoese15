@@ -1,6 +1,6 @@
 ### Olá, Meu nome é João Gabriel e eu sou um estudante de Ciência da Computação e aspirante desenvolvedor Web
 
-- Estou atualmente trabalhando como um estagiario de desenvolvimento na Startup IrriGate utilizando C++
+- Estou atualmente trabalhando como Desenvolvedor de Software Jr. na Startup IrriGate utilizando C++
 - Estou atualmente estudando JavaScript, HTML e CSS
 
 <div>
